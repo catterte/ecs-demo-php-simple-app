@@ -24,6 +24,8 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
+                
+                Terry Cattermole: AWS Sys Ops Certificate
 
             </div>
         </div>
